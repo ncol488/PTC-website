@@ -1,0 +1,103 @@
+/* font */
+body{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10em;
+}
+h1{
+  position: absolute;
+  width: 539px;
+  height: 156px;
+  left: 115px;
+  top: 380px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 78px;
+  line-height: 95px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.subhead{
+  position: absolute;
+  width: 548px;
+  height: 58px;
+  left: 113px;
+  top: 618px;
+
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 49px;
+  display: flex;
+  align-items: center;
+}
+
+/* gallery photo arrangements */
+.gallery1{
+  position: absolute;
+  width: 380px;
+  height: 268px;
+  left: 857px;
+  top: 300px;
+
+  border-radius: 25px;
+
+}
+
+.gallery2{
+  position: absolute;
+  width: 416px;
+  height: 268px;
+  left: 1272px;
+  top: 300px;
+
+  background: url(GroupPhoto (1).jpg);
+  border-radius: 25px;
+
+}
+.gallery3{
+  position: absolute;
+  width: 433px;
+  height: 268px;
+  left: 715px;
+  top: 618px;
+
+  border-radius: 25px;
+
+
+}
+.gallery4{
+  position: absolute;
+  width: 410px;
+  height: 268px;
+  left: 1187px;
+  top: 618px;
+
+  background: url(IMG_1844.jpg);
+  border-radius: 25px;
+}
+
+/* TODO: How to un-distort images? */
+
+/* menu red line */
+  .line {
+    position: absolute;
+  width: 199px;
+  height: 3px;
+  left: 113px;
+  top: 879px;
+  background: #FF424F;
+  }
+
+}
+/*
+.hey{
+  background: blue;
+  font-size: 1em;
+
+  period is class
+}
+ */
